@@ -39,4 +39,4 @@ Average Transaction Value = DIVIDE([Total Revenue], [Total Transactions])
 
 *(See below for a snapshot of the Power BI dashboard)*  
 ⬇️  
-![Sales Overview Dashboard](.../outputs/sales_overview.jpg)
+![Sales Overview Dashboard](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/outputs/sales_overview.jpg)
