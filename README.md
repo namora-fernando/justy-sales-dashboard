@@ -77,23 +77,23 @@ This dashboard includes:
 ## Folder Structure📦
 
 📁 pbix/
-└── Justy_Cafe_Dashboard.pbix
+-└── Justy_Cafe_Dashboard.pbix
 
 📁 outputs/
-├── sales_overview
-└── top_menus
-└── hourly_pattern
-└── sales_channel
+-├── sales_overview
+-└── top_menus
+-└── hourly_pattern
+-└── sales_channel
 > _(both pdf and jpg versions)_
 
 📁 insights/
-├── insights_sales_overview.md
-└── insights_top_selling_menus.md
-└── insights_hourly_pattern.md
-└── insights_sales_channel_analysis.md
+-├── insights_sales_overview.md
+-└── insights_top_selling_menus.md
+-└── insights_hourly_pattern.md
+-└── insights_sales_channel_analysis.md
 
 📁 data_raw/
-└── Transaksi_Juli_2025.xlsx
+-└── Transaksi_Juli_2025.xlsx
 
 README.md
 
