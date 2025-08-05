@@ -9,6 +9,8 @@
 Total Revenue = SUM('Laporan Penjualan'[Total_Final])
 Total Transactions = COUNTROWS('Laporan Penjualan')
 Average Transaction Value = DIVIDE([Total Revenue], [Total Transactions])
+```
+
 ---
 
 ## 🔍 Key Observations
