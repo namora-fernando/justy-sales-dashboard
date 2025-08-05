@@ -30,8 +30,8 @@ Average Transaction Value = DIVIDE([Total Revenue], [Total Transactions])
 > -“Happy Hour” discounts
 > - Loyalty point boosts during off-peak days
 - Low average spend per transaction highlights a need for menu upselling, such as:
-> -Add-on prompts (e.g., “Add +Stevia?”)
-> -Bundle meals or combo packs
+> - Add-on prompts (e.g., “Add +Stevia?”)
+> - Bundle meals or combo packs
 
 ---
 
