@@ -9,6 +9,7 @@
 ```DAX
 Total Revenue Menus = SUM('Penjualan Menu per Hari'[Revenue])
 Total Units Sold = SUM('Penjualan Menu per Hari'[Jumlah Terjual])
+```
 
 ---
 
