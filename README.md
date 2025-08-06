@@ -44,23 +44,23 @@ Each page has an insight summary in [`insights/`](./insights) folder and corresp
 ## Folder Structure 🗂️
 
 📁 pbix/
-└── [Justy_Cafe_Dashboard.pbix] (./pbix)
+<br> └── [Justy_Cafe_Dashboard.pbix] (./pbix)
 
 📁 outputs/
-├── sales_overview
-└── top_menus
-└── hourly_pattern
-└── sales_channel
+<br> ├── sales_overview
+<br> └── top_menus
+<br> └── hourly_pattern
+<br> └── sales_channel
 > [_(both pdf and image exports from the dashboard)_](https://github.com/namora-fernando/justy-sales-dashboard/tree/main/outputs)
 
 📁 insights/
-├── [insights_sales_overview.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_sales_overview.md)
-└── [insights_top_selling_menus.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_top_selling_menus.md)
-└── [insights_hourly_pattern.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_hourly_pattern.md)
-└── [insights_sales_channel_analysis.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_sales_channel_analysis.md)
+<br> ├── [insights_sales_overview.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_sales_overview.md)
+<br> └── [insights_top_selling_menus.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_top_selling_menus.md)
+<br> └── [insights_hourly_pattern.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_hourly_pattern.md)
+<br> └── [insights_sales_channel_analysis.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_sales_channel_analysis.md)
 
 📁 data_raw/
-└── [Transaksi_Juli_2025.xlsx](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/data_raw/Transaksi_Juli_2025.xlsx)
+<br> └── [Transaksi_Juli_2025.xlsx](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/data_raw/Transaksi_Juli_2025.xlsx)
 
 ---
 
