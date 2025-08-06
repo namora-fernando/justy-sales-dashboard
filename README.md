@@ -1,25 +1,66 @@
-# Justy Juice Café & Boardgame – Sales Dashboard (Power BI)
+# Justy Juice Café & Board Game – Sales Dashboard (Power BI Project)
 
-This is a business intelligence project built using Power BI, based on real sales transaction data from a café business in Bekasi (July 2025). The dashboard was created to evaluate operational performance using real transaction records (with permission) from the café. The café primarily sells juice, with additional snack items and rentable board games.
+![Power BI](https://img.shields.io/badge/tool-power%20bi-yellow?logo=powerbi&logoColor=white)
+![Status](https://img.shields.io/badge/project-complete-brightgreen)
+![License](https://img.shields.io/badge/license-private-lightgrey)
+
+This is a business intelligence project built using **Power BI**, based on real sales transaction data from a café business in **Bekasi, Indonesia (July 2025)**.
+The goal was to evaluate and visualize operational performance using real POS data — with full permission from the café owner.
+
+This repository contains:
+- ✅ Cleaned & transformed datasets
+- ✅ 4 dashboard pages (with insights)
+- ✅ Exploratory observations per dashboard
+- ✅ Power BI file (.pbix) & screenshots for visualization
+
+> 📂 All insights and charts are documented in Markdown format inside the `insights/` folder.
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features 📊
 
-This dashboard includes:
+The report consists of 4 major analytical dashboards:
 
--	📈 **Sales Overview**: Daily transaction count and total revenue
--	🧃 **Top-Selling Menus**: Top most sold items by category and sales
--	🕒 **Hourly Pattern**: Most active sales hours throughout the day
--	🛍️ **Sales Channel Analysis**: Performance comparison across Online, Take Away, and Dine In
+| No | Dashboard Page | Key Focus |
+|----|----------------|-----------|
+| 1️⃣ | **Sales Overview** | Daily revenue, volume, transaction trends |
+| 2️⃣ | **Top-Selling Menus** | Best-selling products by volume & revenue |
+| 3️⃣ | **Hourly Pattern** | Most active hours for sales |
+| 4️⃣ | **Channel Analysis** | Performance comparison across Online, Take Away, and Dine In |
+
+Each page has an insight summary in [`insights/`](./insights) folder and corresponding screenshots in [`outputs/`](./outputs).
 
 ---
 
 ## Tools & Technologies 🛠️:
 
--	Power BI Desktop
--	Microsoft Excel (for data preprocessing and VBA macro work)
--	Git & GitHub (for version control and documentation)
+- **Power BI Desktop**  
+- **DAX** for calculated columns and KPIs  
+- **Excel** (data extraction, cleaning support)  
+- **Markdown** (for insight documentation)
+
+---
+
+## Folder Structure 🗂️
+
+📁 pbix/
+└── [Justy_Cafe_Dashboard.pbix] (./pbix)
+
+📁 outputs/
+├── sales_overview
+└── top_menus
+└── hourly_pattern
+└── sales_channel
+> [_(both pdf and image exports from the dashboard)_](https://github.com/namora-fernando/justy-sales-dashboard/tree/main/outputs)
+
+📁 insights/
+├── [insights_sales_overview.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_sales_overview.md)
+└── [insights_top_selling_menus.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_top_selling_menus.md)
+└── [insights_hourly_pattern.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_hourly_pattern.md)
+└── [insights_sales_channel_analysis.md](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/insights/insights_sales_channel_analysis.md)
+
+📁 data_raw/
+└── [Transaksi_Juli_2025.xlsx](https://github.com/namora-fernando/justy-sales-dashboard/blob/main/data_raw/Transaksi_Juli_2025.xlsx)
 
 ---
 
@@ -74,32 +115,7 @@ This dashboard includes:
 
 ---
 
-## Folder Structure📦
-
-📁 pbix/
-- └── Justy_Cafe_Dashboard.pbix
-
-📁 outputs/
-- ├── sales_overview
-- └── top_menus
-- └── hourly_pattern
-- └── sales_channel
-> _(both pdf and jpg versions)_
-
-📁 insights/
-- ├── insights_sales_overview.md
-- └── insights_top_selling_menus.md
-- └── insights_hourly_pattern.md
-- └── insights_sales_channel_analysis.md
-
-📁 data_raw/
-- └── Transaksi_Juli_2025.xlsx
-
-README.md
-
----
-
-## Notes📌
+## Notes 📌
 
 This project was developed as part of a self-initiated business analytics portfolio.  
 All data are used with permission and handled to avoid disclosing sensitive financial performance.
