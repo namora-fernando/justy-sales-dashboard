@@ -64,7 +64,7 @@ Each page has an insight summary in [`insights/`](./insights) folder and corresp
 
 ---
 
-## 🔄 Data Cleaning & Transformation
+## Data Cleaning & Transformation 🔄
 
 **Table #1 (Laporan Penjualan)**
 
